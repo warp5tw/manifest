@@ -1,0 +1,6 @@
+<manifest>
+    <remote fetch="https://github.com" name="warp5tw">
+    <default remote="warp5tw" revision="refs/heads/master" sync-j="4">
+
+
+</manifest>
